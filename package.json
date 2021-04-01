@@ -1,0 +1,23 @@
+{
+  "name": "digicoin-opcodes",
+  "version": "1.0.0",
+  "description": "The digicoin opcodes map",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digicoinofficial/digicoin-opcodes-js.git"
+  },
+  "keywords": [
+    "digicoin",
+    "opcodes"
+  ],
+  "author": "digicoin Weiyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digicoinofficial/digicoin-opcodes-js/issues"
+  },
+  "homepage": "https://github.com/digicoinofficial/digicoin-opcodes-js#readme"
+}
